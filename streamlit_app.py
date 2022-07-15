@@ -1,3 +1,3 @@
-Import streamlit from streamline
+Import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
