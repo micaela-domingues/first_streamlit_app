@@ -1,4 +1,5 @@
-import typing_extensions 
+pip install streamlit
+streamlit hello
 
 Import streamlit
 
