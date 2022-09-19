@@ -48,6 +48,6 @@ streamlit.header("The fruit load list contains:")
 streamlit.dataframe(my_data_rows)
 
 add_my_fruit = my_cur.execute("INSERT INTO pc_rivery_db.public.fruit_load_list
-values {fruit_choice}")
+values fruit_choice")
 
 
